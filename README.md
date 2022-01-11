@@ -22,9 +22,6 @@ Open the [invoice.html](https://github.com/sparksuite/simple-html-invoice-templa
 ## RTL support
 Replace `<div class="invoice-box">` with `<div class="invoice-box rtl">`
 
-## Preview
-<img width="1325" alt="Preview" src="https://user-images.githubusercontent.com/3850064/111213188-8190a780-859e-11eb-99b5-e038eac4b172.png">
-
 ## Contributing
 We love contributions! Contributing is easy; [learn how](https://github.com/sparksuite/simple-html-invoice-template/blob/master/CONTRIBUTING.md).
 
